@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for day in {1..18}; do
+for day in {20..26}; do
   total=$((RANDOM % 7 + 1))  # random 1-7
   
   for i in $(seq 1 $total); do
