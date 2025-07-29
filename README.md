@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rayhan</h1>
 <h3 align="center">A passionate developer from Indonesia 🇮🇩</h3>
 
-- 🔭 I’m currently working on **Web & IoT Projects**
+- 🔭 I’m currently working on **Web, Mobile & IoT Projects**
 - 🌱 I’m currently learning **Node.js, Express, and REST API**
 - ⚡ Fun fact: I love coffee and long-distance running!
 
