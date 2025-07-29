@@ -26,7 +26,7 @@
 
 ### 📊 GitHub Stats
 
-![rayhanzz772's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanzz772&theme=merko&show_icons=true&hide_border=true&layout=compact)
+![rayhanzz772's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanzz772&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
