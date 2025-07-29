@@ -26,13 +26,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayhanzz772&show_icons=true&theme=tokyonight" alt="rayhanzz772 GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanzz772&layout=compact&langs_count=6&theme=tokyonight" alt="rayhanzz772 Top Languages" />
-</p>
+![rayhanzz772's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanzz772&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
