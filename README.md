@@ -47,7 +47,7 @@
 
 <p><i>If you like my work, consider buying me a coffee!</i></p>
 <p>
-  <a href="https://www.buymeacoffee.com/rayhanzz772" target="_blank">
+  <a href="https://www.buymeacoffee.com/rayhanzz772e" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black&style=flat-square" />
   </a>
 </p>
