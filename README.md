@@ -26,7 +26,7 @@
 
 ### 📊 GitHub Stats
 
-![rayhanzz772's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanzz772&theme=algolia&show_icons=true&hide_border=false&layout=compact)
+https://github-readme-stats.vercel.app/api/wakatime?username=ryz772&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact
 
 ---
 
