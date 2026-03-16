@@ -24,10 +24,18 @@
 
 ---
 
-## 📊 Wakapi.dev Stats (All Time)
+## 📊 GitHub Stats
 
-![Wakapi.dev Stats (All Time)](https://github.com-readme-stats.vercel.app/api/wakatime?username=ryz772&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhanzz772&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanzz772&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rayhanzz772&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
 
 ## 📈 Contribution Graph
 
