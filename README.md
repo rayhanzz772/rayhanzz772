@@ -44,7 +44,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://rayhanzz772.github.io/rayhanzz772/github-contribution-grid-snake.svg" />
+  <img src="https://rayhanzz772.github.io/rayhanzz772/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
