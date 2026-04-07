@@ -45,11 +45,9 @@
 
 <p align="center">
   <picture>
-    <!-- Dark mode -->
     <source media="(prefers-color-scheme: dark)" 
             srcset="https://raw.githubusercontent.com/rayhanzz772/rayhanzz772/output/dist/github-contribution-grid-snake-dark.svg" />
     
-    <!-- Light mode (WAJIB ADA) -->
     <img src="https://raw.githubusercontent.com/rayhanzz772/rayhanzz772/output/dist/github-contribution-grid-snake.svg" />
   </picture>
 </p>
