@@ -39,10 +39,6 @@
   <img src="https://streak-stats.demolab.com?user=rayhanzz772&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://rayhanzz772.github.io/rayhanzz772/github-contribution-grid-snake-dark.svg" />
 </p>
