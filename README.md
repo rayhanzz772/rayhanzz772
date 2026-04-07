@@ -10,11 +10,23 @@ Lover of mind-blowing science books & nature fiction 🌌📚
 - ⚡ Fun fact: I run with midfoot landing and track my pace ⏱️  
 - 🎨 Passionate about clean and dynamic UI/UX  
 
-### GitHub Stats
+## GitHub Stats
 ![Rey GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayhanzz772&show_icons=true&theme=radical)
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanzz772&layout=compact&theme=radical)
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
+</p>
 
 ### 💌 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rey-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rayhanzz772)
