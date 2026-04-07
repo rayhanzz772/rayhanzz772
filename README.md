@@ -37,7 +37,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayhanzz772&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanzz772&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
@@ -52,12 +51,6 @@
 <p align="center">
   <img src="https://github.com/rayhanzz772/rayhanzz772/blob/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-## 📈 Contribution Graph
-
-[![Rayhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayhanzz772\&theme=tokyo-night)](https://github.com/rayhanzz772)
 
 ---
 
