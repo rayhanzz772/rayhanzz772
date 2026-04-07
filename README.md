@@ -10,19 +10,10 @@
 ## 🧠 About Me
 
 * 🔭 Building **Web, Mobile & IoT Applications**
-* 🌱 Currently learning **Node.js, Express, REST API**
-* 🤖 Experience in **AI classification (Cancer Detection App)**
+* 🌱 Currently learning **Go, Java**
+* 🤖 Experience in **Web Backend, AI, IoT**
 * 🏃 Passionate about **long-distance running**
 * ☕ Fuel: **Americano**
-
----
-
-## 🔥 Highlight Projects
-
-* 📱 **Smart Device Controller (Flutter + IoT)**
-* 🌐 **Transaksiku (Financial Tracker App)**
-* 🤖 **AIoT Robot Sortir Tomat**
-* 🏫 **SITARI (Inventory System Kampus)**
 
 ---
 
