@@ -73,7 +73,3 @@
 </p>
 
 ---
-
-## ⚡ Fun Fact
-
-> "Code. Run. Improve. Repeat."
