@@ -1,37 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rayhan</h1>
-<h3 align="center">🚀 Backend Developer | 🤖 AI Enthusiast | 🏃 Runner</h3>
+# Hi there 👋 I'm rayhanzz772
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+REST+APIs;AIoT+Explorer;Consistent+Runner" />
-</p>
+> Cool
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-6366f1?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14b8a6?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-3b82f6?style=flat&logo=react&logoColor=white)
 
-## 🧠 Current Focus
+📊 **Stats** · ⭐ 248 stars · 🔀 112 PRs · 💻 1.2k commits
 
-* 🔭 Building **Web, Mobile & AI Applications**
-* 🌱 Currently learning **Go, Java**
-* 🤖 Experience in **Web Backend, AI, IoT**
-* 🏃 Passionate about **long-distance running**
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
