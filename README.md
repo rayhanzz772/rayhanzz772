@@ -3,12 +3,12 @@
 ![Profile GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFyYXlnOGp5ajJuOXU5aHV1cHEwdjl5cXY1M3YxMDE2cDBjOXY2ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnAlQcGnZq9y/giphy.gif)
 
 ## About Me
-I'm a backend developer who loves building cool projects and exploring AI & IoT.  
-Lover of mind-blowing science books & nature fiction 🌌📚
+I'm a backend developer with 2+ years of experience, having successfully completed 8 projects in 2025–2026.  
+Currently expanding my skills by learning **Go**, while continuing to build robust and scalable backend solutions.  
 
-- 💻 Currently working on **Node.js** and **Laravel** projects  
-- ⚡ Fun fact: I run with midfoot landing and track my pace ⏱️  
-- 🎨 Passionate about clean and dynamic UI/UX  
+💻 Experienced in **Node.js** and **Laravel**, delivering clean and efficient code  
+⚡ Passionate about optimizing performance and implementing best practices  
+🎯 Always focused on creating maintainable and high-quality backend architectures
 
 ## GitHub Stats
 <p align="center">
