@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayhan</h1>
-<h3 align="center">🚀 Backend Developer | 🤖 AIoT Enthusiast | 🏃 Runner</h3>
+<h3 align="center">🚀 Backend Developer | 🤖 AI Enthusiast | 🏃 Runner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+REST+APIs;AIoT+Explorer;Consistent+Runner" />
@@ -9,7 +9,7 @@
 
 ## 🧠 Current Focus
 
-* 🔭 Building **Web, Mobile & IoT Applications**
+* 🔭 Building **Web, Mobile & AI Applications**
 * 🌱 Currently learning **Go, Java**
 * 🤖 Experience in **Web Backend, AI, IoT**
 * 🏃 Passionate about **long-distance running**
