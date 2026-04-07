@@ -7,13 +7,12 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 Current Focus
 
 * 🔭 Building **Web, Mobile & IoT Applications**
 * 🌱 Currently learning **Go, Java**
 * 🤖 Experience in **Web Backend, AI, IoT**
 * 🏃 Passionate about **long-distance running**
-* ☕ Fuel: **Americano**
 
 ---
 
