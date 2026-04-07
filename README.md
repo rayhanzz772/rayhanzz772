@@ -2,7 +2,7 @@
 
 ![Profile GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFyYXlnOGp5ajJuOXU5aHV1cHEwdjl5cXY1M3YxMDE2cDBjOXY2ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnAlQcGnZq9y/giphy.gif)
 
-### About Me
+## About Me
 I'm a backend developer who loves building cool projects and exploring AI & IoT.  
 Lover of mind-blowing science books & nature fiction 🌌📚
 
@@ -11,7 +11,9 @@ Lover of mind-blowing science books & nature fiction 🌌📚
 - 🎨 Passionate about clean and dynamic UI/UX  
 
 ## GitHub Stats
-![Rey GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayhanzz772&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://rayhanzz772.github.io/rayhanzz772/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ## 🛠️ Tech Stack
 
