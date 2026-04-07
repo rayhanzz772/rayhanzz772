@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Rey! 
+Welcome to my GitHub Profile !
 
-![Profile GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Cat Background](https://media.tenor.com/ZbQeDDrs7y8AAAAd/cat-background-aesthetic-skyline-night.gif)
 
 ## 📊 GitHub Stats
 
