@@ -1,13 +1,33 @@
-# Hi there 👋 I'm rayhanzz772
+# 👋 Hi, I'm Rey! 
 
-> Cool
+![Profile GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-6366f1?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14b8a6?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-3b82f6?style=flat&logo=react&logoColor=white)
+### 🚀 About Me
+I'm a backend developer who loves building cool projects and exploring AI & IoT.  
+Lover of mind-blowing science books & nature fiction 🌌📚
 
-📊 **Stats** · ⭐ 248 stars · 🔀 112 PRs · 💻 1.2k commits
+- 💻 Currently working on **Node.js** and **Laravel** projects  
+- ⚡ Fun fact: I run with midfoot landing and track my pace ⏱️  
+- 🎨 Passionate about clean and dynamic UI/UX  
 
+### 📈 My GitHub Stats
+![Rey GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayhanzz772&show_icons=true&theme=radical)
+
+### 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanzz772&layout=compact&theme=radical)
+
+### 💌 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rey-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rayhanzz772)
+[![Gmail](https://img.shields.io/badge/Gmail-Rey-red?style=flat&logo=gmail)](mailto:your.email@example.com)
+
+---
+
+### 🎬 Fun Section with GIFs
+Here are some cool project highlights:  
+
+![Coding GIF](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)  
+![IoT GIF](https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif)  
+![Running GIF](https://media.giphy.com/media/xUOxfjsW0p3Cj4G8j6/giphy.gif)
 
 ## 📊 GitHub Stats
 
