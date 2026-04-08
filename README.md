@@ -1,12 +1,10 @@
-# Hi, I'm Rey! 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=880808&center=true&vCenter=true&width=600&lines=Hey+there%2C+I%27m+Rey" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFyYXlnOGp5ajJuOXU5aHV1cHEwdjl5cXY1M3YxMDE2cDBjOXY2ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnAlQcGnZq9y/giphy.gif" alt="Profile GIF" />
 </p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=880808&center=true&vCenter=true&width=600&lines=Hey+there%2C+I%27m+Rey" alt="Typing SVG" />
-</div>
 
 <p align="center">
   <a href="https://rayhanprojects.site" target="_blank">
@@ -38,13 +36,12 @@ projects_shipped: 8 (2025–2026)
 currently_learning: Go
 focus: Performance · Scalability · Clean Code
 ```
-
----
-
+<!--
 ## GitHub Stats
 <p align="center">
   <img src="https://rayhanzz772.github.io/rayhanzz772/github-contribution-grid-snake-dark.svg" />
 </p>
+-->
 
 ## 🛠️ Tech Stack
 
