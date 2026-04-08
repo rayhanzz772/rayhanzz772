@@ -2,8 +2,15 @@
 
 ![Profile GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFyYXlnOGp5ajJuOXU5aHV1cHEwdjl5cXY1M3YxMDE2cDBjOXY2ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnAlQcGnZq9y/giphy.gif)
 
-<img src="https://img.shields.io/badge/PHP-1a1a2e?style=for-the-badge&logo=php&logoColor=777BB4" />
-<img src="https://img.shields.io/badge/Dart-1a1a2e?style=for-the-badge&logo=dart&logoColor=0175C2" />
+<p align="center">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blueviolet?style=for-the-badge" />
+  </a>
+  
+  <a href="https://linkedin.com/in/rayhanzz772" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ## About Me
 I'm a backend developer with 2+ years of experience, having successfully completed 8 projects in 2025–2026.  
