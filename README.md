@@ -24,7 +24,7 @@
   </a>
 </p>
 
-## About Me
+## 💥 About Me
 > Building clean, scalable backends — one endpoint at a time.
 
 I'm a backend developer with **2+ years of experience** and **8 projects shipped** in 2025–2026.
