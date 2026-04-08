@@ -26,8 +26,6 @@
 I'm a backend developer with **2+ years of experience** and **8 projects shipped** in 2025–2026.
 Passionate about performance, clean architecture, and writing code that lasts.
 
-Currently leveling up with **Go** ⚡
-
 ```yaml
 name: Rey
 role: Backend Developer
