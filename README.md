@@ -48,18 +48,48 @@ focus: Performance · Scalability · Clean Code
 
 ## 🛠️ Tech Stack
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+*Languages & Runtimes*
+<p>
+  <img src="https://img.shields.io/badge/Go-1a1a2e?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/PHP-1a1a2e?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Dart-1a1a2e?style=for-the-badge&logo=dart&logoColor=0175C2" />
+</p>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+*AI / LLM*
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-1a1a2e?style=for-the-badge&logo=openai&logoColor=b388ff" />
+  <img src="https://img.shields.io/badge/LangChain-1a1a2e?style=for-the-badge&logo=chainlink&logoColor=b388ff" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-1a1a2e?style=for-the-badge&logo=databricks&logoColor=b388ff" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-1a1a2e?style=for-the-badge&logo=probot&logoColor=b388ff" />
+  <img src="https://img.shields.io/badge/Chain_of_Thought-1a1a2e?style=for-the-badge&logo=brain&logoColor=b388ff" />
+  <img src="https://img.shields.io/badge/Prompt_Chaining-1a1a2e?style=for-the-badge&logo=link&logoColor=b388ff" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+*Backend & Frameworks*
+<p>
+  <img src="https://img.shields.io/badge/Fiber(Go)-1a1a2e?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Express.js-1a1a2e?style=for-the-badge&logo=express&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Laravel-1a1a2e?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/gRPC-1a1a2e?style=for-the-badge&logo=google&logoColor=b388ff" />
+</p>
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+*Frontend & Mobile*
+<p>
+  <img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-1a1a2e?style=for-the-badge&logo=flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1a1a2e?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" />
+</p>
+
+*Database & Infra*
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Redis-1a1a2e?style=for-the-badge&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/Dragonfly-1a1a2e?style=for-the-badge&logo=dragonfly&logoColor=b388ff" />
+  <img src="https://img.shields.io/badge/RustFS-1a1a2e?style=for-the-badge&logo=rust&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-1a1a2e?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+</p>
 
 ---
