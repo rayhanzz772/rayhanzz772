@@ -80,7 +80,6 @@ Passionate about performance, clean architecture, and writing code that lasts.
   <img src="https://img.shields.io/badge/Fiber(Go)-00C4B3?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 *Frontend & Mobile*
@@ -94,8 +93,7 @@ Passionate about performance, clean architecture, and writing code that lasts.
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dragonfly-A855F7?style=for-the-badge&logo=dragonfly&logoColor=white" />
-  <img src="https://img.shields.io/badge/RustFS-F97316?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-A855F7?style=for-the-badge&logo=dragonfly&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
