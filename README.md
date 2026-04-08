@@ -12,15 +12,15 @@
 
 <p align="center">
   <a href="https://rayhanprojects.site" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blueviolet?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-orange?style=for-the-badge" />
   </a>
   
   <a href="https://linkedin.com/in/mrma772" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-mrma772-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Rey-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-rayhanzz772-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
