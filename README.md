@@ -49,7 +49,7 @@ focus: Performance · Scalability · Clean Code
 ## 🛠️ Tech Stack
 
 *Languages & Runtimes*
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Go-00C4B3?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -58,7 +58,7 @@ focus: Performance · Scalability · Clean Code
 </p>
 
 *AI / LLM*
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/OpenAI_API-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-7C3AED?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG_Pipelines-EC4899?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -68,7 +68,7 @@ focus: Performance · Scalability · Clean Code
 </p>
 
 *Backend & Frameworks*
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Fiber(Go)-00C4B3?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -76,14 +76,14 @@ focus: Performance · Scalability · Clean Code
 </p>
 
 *Frontend & Mobile*
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 *Database & Infra*
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Dragonfly-A855F7?style=for-the-badge&logo=dragonfly&logoColor=white" />
