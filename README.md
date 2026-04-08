@@ -1,8 +1,7 @@
 # Hi, I'm Rey! 
 
-<div align="center">
-  ![Profile GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFyYXlnOGp5ajJuOXU5aHV1cHEwdjl5cXY1M3YxMDE2cDBjOXY2ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnAlQcGnZq9y/giphy.gif)
-</div>
+![Profile GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFyYXlnOGp5ajJuOXU5aHV1cHEwdjl5cXY1M3YxMDE2cDBjOXY2ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnAlQcGnZq9y/giphy.gif)
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=880808&center=true&vCenter=true&width=600&lines=Hey+there%2C+I%27m+Rey" alt="Typing SVG" />
 </div>
@@ -47,23 +46,17 @@ focus: Performance · Scalability · Clean Code
 
 ## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
-**Backend**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Frontend & Mobile**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Database & CMS**
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
