@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I%27m+Rey" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I%27m+Rey" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <img 
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlmMGZkZ2NydG82anBwZjVubzRseHVkNTBxMmlqb2UzMjk2aGVhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Lc5xmvzRhlLy/giphy.gif" 
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHc1dmdjcWZ6Z3V6NWUzeDFmbGZuajBrdGxiZnl1dDNwN3B0MXkzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MjCG7Gi48SDGwooctb/giphy.gif" 
     alt="Profile GIF"
     width="900"
   />
