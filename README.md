@@ -21,12 +21,23 @@
 </p>
 
 ## About Me
-I'm a backend developer with 2+ years of experience, having successfully completed 8 projects in 2025–2026.  
-Currently expanding my skills by learning **Go**, while continuing to build robust and scalable backend solutions.  
+> Building clean, scalable backends — one endpoint at a time.
 
-💻 Experienced in **Node.js** and **Laravel**, delivering clean and efficient code  
-⚡ Passionate about optimizing performance and implementing best practices  
-🎯 Always focused on creating maintainable and high-quality backend architectures
+I'm a backend developer with **2+ years of experience** and **8 projects shipped** in 2025–2026.
+Passionate about performance, clean architecture, and writing code that lasts.
+
+Currently leveling up with **Go** ⚡
+
+```yaml
+name: Rey
+role: Backend Developer
+experience: 2+ years
+projects_shipped: 8 (2025–2026)
+currently_learning: Go
+focus: Performance · Scalability · Clean Code
+```
+
+---
 
 ## GitHub Stats
 <p align="center">
