@@ -6,7 +6,7 @@
   <img 
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeno5bHN5dDJnZzE1NXBid201c2F6MTc3YXZiMWVwcjRlMjZ3N3hlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EemW34a2bygGquksbt/giphy.gif" 
     alt="Profile GIF"
-    width="900"
+    width="1200"
   />
 </p>
 
