@@ -1,6 +1,8 @@
 # Hi, I'm Rey! 
 
-![Profile GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFyYXlnOGp5ajJuOXU5aHV1cHEwdjl5cXY1M3YxMDE2cDBjOXY2ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnAlQcGnZq9y/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFyYXlnOGp5ajJuOXU5aHV1cHEwdjl5cXY1M3YxMDE2cDBjOXY2ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnAlQcGnZq9y/giphy.gif" alt="Profile GIF" />
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=880808&center=true&vCenter=true&width=600&lines=Hey+there%2C+I%27m+Rey" alt="Typing SVG" />
