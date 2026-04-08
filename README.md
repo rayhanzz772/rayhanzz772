@@ -31,12 +31,21 @@ I'm a backend developer with **2+ years of experience** and **8 projects shipped
 Passionate about performance, clean architecture, and writing code that lasts.
 
 ```yaml
-name: Rey
-role: Backend Developer
-experience: 2+ years
-projects_shipped: 8 (2025–2026)
-currently_learning: Go
-focus: Performance · Scalability · Clean Code
+{
+  "name": "Rey",
+  "role": "Backend Developer",
+  "experience": "2+ years",
+  "projects_shipped": {
+    "count": 8,
+    "period": "2025–2026"
+  },
+  "currently_learning": "Go",
+  "focus": [
+    "Performance",
+    "Scalability",
+    "Clean Code"
+  ]
+}
 ```
 <!--
 ## GitHub Stats
