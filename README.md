@@ -3,14 +3,6 @@
 </div>
 
 <p align="center">
-  <img 
-      src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWh6YWEwN2h4MTR3MnRiM3pkaGdoc21jdTJicTFzbWFtaWw0a3owciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qb1eHxhUHLdsc/giphy.gif" 
-    alt="Profile GIF"
-    width="1200"
-  />
-</p>
-
-<p align="center">
   <a href="https://rayhanprojects.site" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-orange?style=for-the-badge" />
   </a>
