@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeno5bHN5dDJnZzE1NXBid201c2F6MTc3YXZiMWVwcjRlMjZ3N3hlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EemW34a2bygGquksbt/giphy.gif" 
+      src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWh6YWEwN2h4MTR3MnRiM3pkaGdoc21jdTJicTFzbWFtaWw0a3owciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qb1eHxhUHLdsc/giphy.gif" 
     alt="Profile GIF"
     width="1200"
   />
@@ -36,7 +36,7 @@ Passionate about performance, clean architecture, and writing code that lasts.
   "role": "Backend Developer",
   "experience": "2+ years",
   "projects_shipped": {
-    "count": 8,
+    "count": 10+,
     "period": "2025–2026"
   },
   "currently_learning": "Go",
