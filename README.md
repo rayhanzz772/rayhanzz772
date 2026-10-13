@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=28&pause=1000&color=FF6A00&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Rey+👋;Backend+Developer;Building+clean+%26+scalable+systems;Currently+learning+Go+%26+.NET" alt="Typing SVG" />
-</div>
-
 <p align="center">
   <a href="https://rayhanprojects.site" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-FF6A00?style=for-the-badge" />
