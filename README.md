@@ -9,11 +9,6 @@
     <img src="https://img.shields.io/badge/Gmail-rayhanzz772-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rayhanzz772&label=Profile+Views&color=FF6A00&style=for-the-badge" />
-</p>
-
 ---
 
 ## 💥 About Me
