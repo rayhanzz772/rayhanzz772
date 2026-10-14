@@ -132,7 +132,3 @@ focus:
 ## 🤝 Let's Connect
 
 Open to collaborations, backend projects, and good conversations about architecture.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6A00&height=100&section=footer" />
-</p>
