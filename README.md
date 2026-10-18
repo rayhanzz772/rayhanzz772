@@ -1,14 +1,6 @@
-```
-                                                  _   _ _____ _     _     ___  
-                                                 | | | | ____| |   | |   / _ \ 
-                                                 | |_| |  _| | |   | |  | | | |
-                                                 |  _  | |___| |___| |__| |_| |
-                                                 |_| |_|_____|_____|_____\___/ 
-                                                 
-                                                         /\_/\
-                                                        ( o.o )   Hi, I'm Ray!
-                                                         > ^ <
-```
+<p align="center">
+  <img src="./assets/coding.gif" width="400" alt="Coding animation">
+</p>
 
 <p align="center">
   <a href="https://rayhanmaulana.cv" target="_blank">
